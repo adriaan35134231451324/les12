@@ -1,0 +1,92 @@
+.standaard {
+    background-color: #a89984;
+  }
+  
+  #hok1 {
+    background-color: #D63A3E
+    ;
+  }
+  
+  #hok2 {
+    background-color: #D63A3E
+    ;
+  }
+  
+  #hok3 {
+    background-color: #B7BB26   ;
+  }
+  
+  #hok4 {
+    background-color: #B7BB26;
+  }
+  
+  #hok5 {
+    background-color: #69B4B2;
+  }
+  
+  #hok6 {
+    background-color: #69B4B2       ;
+  }
+  
+
+  #hok7 {
+    background-color: #fabd2f;
+  }
+
+  #hok8 {
+    background-color: #fabd2f;
+  }
+  
+  footer p {
+    background-color: #fabd2f;
+    text-align: center;
+  }
+
+  footer {
+    background-color: #a89984; border-color: #d79921; border-style: solid;   border-width: 5px;
+
+  }
+  
+header {
+    background-color: #a89984; border-color: #d79921; border-style: solid;   border-width: 5px;
+}
+
+header h1 {
+   text-align: center;
+    color: #fabd2f;
+}
+
+img {
+    height: 65px;
+}
+
+body {
+    background-color: #f1dfc5;
+    border-left: #fabd2f;
+    border-right: #fabd2f;
+    border-style: solid;
+    border-width: 5px;
+
+}
+
+table {margin-left: 45%;
+border: solid; border-color: #d79921; border-width: 5px; background-color: #a89984;
+}
+
+
+.een {background-color:#fabd2f;}
+
+
+.twee {background-color: #B7BB26;}
+
+.drie {background-color: #D63A3E;}
+
+.vier {background-color: #d79921;}
+
+.vijf {background-color: #a89984;}
+
+.zes {background-color: #B7BB26;}
+
+.zeven {background-color: #69B4B2;}
+
+.acht {background-color:#D63A3E;}
